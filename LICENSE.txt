@@ -1,1 +1,0 @@
-Zombie Outbreak: Last Stand — Original project scaffold and code. No third-party game assets are included. You may modify and package this project for your own use. See README for notes.
